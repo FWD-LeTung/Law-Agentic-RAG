@@ -1,0 +1,5 @@
+.env
+.venv
+CLAUDE.md
+.claude/
+src\ingestion\Dataset_Config.md
